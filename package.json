@@ -1,0 +1,16 @@
+{
+    "name": "electron-workshop",
+    "version": "1.0.0",
+    "description": "This is a workshop to introduce electronjs",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Mehedi",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^18.2.0",
+        "nodemon": "^2.0.16"
+    },
+    "dependencies": {}
+}
